@@ -40,7 +40,7 @@ export const Login = () => {
 
     const handleLogin = (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault();
-        fetch("http://192.168.0.8:5200/api/Login", {
+        fetch("http://javiersaldias.zapto.org:50001/api/Login", {
             method: "POST",
             body: JSON.stringify({
                 user,

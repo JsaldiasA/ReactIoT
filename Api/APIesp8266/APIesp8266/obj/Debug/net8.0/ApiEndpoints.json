@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Softserve.ProjectLab.ClientAPI.Controllers.LoginController",
+    "Method": "Login",
+    "RelativePath": "api/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "body",
+        "Type": "APIesp8266.Model.LoginBody",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

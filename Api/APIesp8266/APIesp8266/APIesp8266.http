@@ -1,0 +1,6 @@
+@APIesp8266_HostAddress = http://localhost:5030
+
+GET {{APIesp8266_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
