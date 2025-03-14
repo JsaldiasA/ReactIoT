@@ -6,11 +6,7 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-// Configure a HttpClient with a common BaseAddress for all services
-builder.Services.AddHttpClient("apiClient", client =>
-{
-    client.BaseAddress = new Uri("http://localhost"); // URL for  API
-});
+
 //to let reacIOT connecto to the API
 builder.Services.AddCors(options =>
 {

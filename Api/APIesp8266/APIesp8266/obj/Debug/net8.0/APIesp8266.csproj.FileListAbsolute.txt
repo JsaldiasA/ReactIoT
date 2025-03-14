@@ -28,7 +28,6 @@ C:\Users\Home\Documents\ESP8266\Repo\ReactIoT\Api\APIesp8266\APIesp8266\obj\Debu
 C:\Users\Home\Documents\ESP8266\Repo\ReactIoT\Api\APIesp8266\APIesp8266\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.APIesp8266.props
 C:\Users\Home\Documents\ESP8266\Repo\ReactIoT\Api\APIesp8266\APIesp8266\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.APIesp8266.props
 C:\Users\Home\Documents\ESP8266\Repo\ReactIoT\Api\APIesp8266\APIesp8266\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\Home\Documents\ESP8266\Repo\ReactIoT\Api\APIesp8266\APIesp8266\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Home\Documents\ESP8266\Repo\ReactIoT\Api\APIesp8266\APIesp8266\obj\Debug\net8.0\APIesp8266.csproj.Up2Date
 C:\Users\Home\Documents\ESP8266\Repo\ReactIoT\Api\APIesp8266\APIesp8266\obj\Debug\net8.0\APIesp8266.dll
 C:\Users\Home\Documents\ESP8266\Repo\ReactIoT\Api\APIesp8266\APIesp8266\obj\Debug\net8.0\refint\APIesp8266.dll
@@ -41,3 +40,4 @@ C:\Users\Home\Documents\ESP8266\Repo\ReactIoT\Api\APIesp8266\APIesp8266\bin\Debu
 C:\Users\Home\Documents\ESP8266\Repo\ReactIoT\Api\APIesp8266\APIesp8266\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\Home\Documents\ESP8266\Repo\ReactIoT\Api\APIesp8266\APIesp8266\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Home\Documents\ESP8266\Repo\ReactIoT\Api\APIesp8266\APIesp8266\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Home\Documents\ESP8266\Repo\ReactIoT\Api\APIesp8266\APIesp8266\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIesp8266")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccd48c7cad48839baa8de0498e7e738f19d5e27f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b69e81adc8c8f44882b1e28399d68d47570df775")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIesp8266")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIesp8266")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
