@@ -1,3 +1,7 @@
+using APIesp8266.Entity;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -22,8 +26,11 @@ builder.Services.AddCors(options =>
     });
 });
 
-var app = builder.Build();
 
+
+
+
+var app = builder.Build();
 
 
 

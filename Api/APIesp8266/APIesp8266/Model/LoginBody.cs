@@ -1,8 +1,8 @@
 ﻿namespace APIesp8266.Model
 {
-    public class LoginBody(string user, string pass)
+    public class LoginBody(string UserName, string Password)
     {
-        public string User { get; set; } = user;
-        public string Pass { get; set; } = pass;
+        public string UserName { get; set; } = UserName;
+        public string Password { get; set; } = Password;
     }
 }

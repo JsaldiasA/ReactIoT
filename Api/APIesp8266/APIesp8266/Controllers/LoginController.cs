@@ -1,33 +1,35 @@
-﻿using APIesp8266.Model;
+﻿using APIesp8266.Entity;
+using APIesp8266.Model;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
+using APIesp8266.Entity;
+using Microsoft.EntityFrameworkCore.Internal;
 
-namespace Softserve.ProjectLab.ClientAPI.Controllers
+namespace APIesp8266.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
     public class LoginController(IConfiguration _config) : Controller
     {
-        private static List<LoginBody> userPass =
-        [
-            new LoginBody("User", "pass"),
-            new LoginBody("admin", "admin"),
-        ];
-
+   
         [AllowAnonymous]
         [HttpPost]
         public IActionResult Login([FromBody] LoginBody body)
         {
-            bool found = userPass.Any(x => x.User.Equals(body.User) && x.Pass.Equals(body.Pass));
+    
+            var context = new UserDbContext();// create context to extract the data from DB
+            var Users = context.Users.ToList();
+            bool found = Users.Any(x => x.UserName.Equals(body.UserName) && x.Password.Equals(body.Password));
+
             if (!found)
             {
                 return Unauthorized("Incorrect credentials");
             }
-            return Json(new { token = GenerateToken(body.User) });
+            return Json(new { token = GenerateToken(body.UserName) });
         }
         private string GenerateToken(string user)
         {

@@ -42,11 +42,11 @@
       "LoginBody": {
         "type": "object",
         "properties": {
-          "user": {
+          "userName": {
             "type": "string",
             "nullable": true
           },
-          "pass": {
+          "password": {
             "type": "string",
             "nullable": true
           }

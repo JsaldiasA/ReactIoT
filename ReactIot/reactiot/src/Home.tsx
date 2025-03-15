@@ -1,4 +1,5 @@
-
+import { Container } from 'react-bootstrap';
+import './App.css';
 
 function Home() {
 
@@ -7,8 +8,8 @@ function Home() {
   
 
     return (
-
-     <h1>Home Page</h1>
+        <Container >  <h1>Home Page</h1></Container>
+   
 
     )
 }

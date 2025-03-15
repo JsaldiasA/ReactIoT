@@ -1,6 +1,6 @@
 [
   {
-    "ContainingType": "Softserve.ProjectLab.ClientAPI.Controllers.LoginController",
+    "ContainingType": "APIesp8266.Controllers.LoginController",
     "Method": "Login",
     "RelativePath": "api/Login",
     "HttpMethod": "POST",
