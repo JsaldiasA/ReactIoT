@@ -5,8 +5,8 @@ import { ToastContainer, toast } from "react-toastify";
 import { useNavigate } from 'react-router-dom';
 
 export const Login = () => {
-    const [user, setUser] = useState("");
-    const [pass, setPass] = useState("");
+    const [UserName, setUser] = useState("");
+    const [Password, setPass] = useState("");
 
     const [isLogged, setIsLogged] = useState(false);
 
@@ -43,8 +43,8 @@ export const Login = () => {
         fetch("http://javiersaldias.zapto.org:50001/api/Login", {
             method: "POST",
             body: JSON.stringify({
-                user,
-                pass,
+                UserName,
+                Password,
             }),
             headers: { "Content-type": "application/json" }
         }).then(res => {
@@ -101,15 +101,15 @@ export const Login = () => {
                 <label>Username:</label>
                 <input
                     type="text"
-                    name="user"
-                    value={user}
+                        name="user"
+                        value={UserName}
                     onChange={e => setUser(e.target.value)}
                 />
                 <label>Password:</label>
                 <input
                     type="password"
                     name="pass"
-                    value={pass}
+                    value={Password}
                     onChange={e => setPass(e.target.value)}
                 />
                 <button type="submit">Login</button>

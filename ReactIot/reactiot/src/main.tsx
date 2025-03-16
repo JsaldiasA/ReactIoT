@@ -1,6 +1,7 @@
 import { StrictMode } from 'react'
 import './index.css'
 import Devices from './Devices.tsx'
+import Accounts from './Accounts.tsx'
 import Nav1 from './nav1.tsx'
 import Home from './Home.tsx'
 import 'bootstrap/dist/css/bootstrap.css'
@@ -22,6 +23,11 @@ const router = createBrowserRouter([
     {
         path: "/Devices",
         element: <Devices />
+    },
+   
+    {
+         path: "/Accounts",
+         element: <Accounts />
     },
 ]);
 

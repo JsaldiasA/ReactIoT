@@ -31,6 +31,7 @@ function Nav1() {
               top: "0%",
                 left: "0%",
                 right: "0%",
+                margin: "0%",
                 cursor: "pointer",
                 pointerEvents: "all",
             }}  >
@@ -42,7 +43,8 @@ function Nav1() {
                     <Nav className="me-auto" style={{ right: "0%"}} >
                         {isLogged ? <>
                             <Nav.Link href="/">Home</Nav.Link>
-                            <Nav.Link href="Devices">Devices</Nav.Link>                
+                            <Nav.Link href="Devices">Devices</Nav.Link>
+                            <Nav.Link href="Accounts">Accounts</Nav.Link>
                         <NavDropdown title="Code" id="basic-nav-dropdown">
                             <NavDropdown.Item href="#action/3.1">FrontEnd</NavDropdown.Item>
                             <NavDropdown.Item href="#action/3.2">
