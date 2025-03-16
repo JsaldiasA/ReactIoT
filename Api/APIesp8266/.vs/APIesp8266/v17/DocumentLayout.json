@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Home\\Documents\\ESP8266\\Repo\\ReactIoT\\Api\\APIesp8266\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D7BAE4E-C432-48B4-A5E6-F4D76DBD7BD2}|APIesp8266\\APIesp8266.csproj|c:\\users\\home\\documents\\esp8266\\repo\\reactiot\\api\\apiesp8266\\apiesp8266\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D7BAE4E-C432-48B4-A5E6-F4D76DBD7BD2}|APIesp8266\\APIesp8266.csproj|solutionrelative:apiesp8266\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D7BAE4E-C432-48B4-A5E6-F4D76DBD7BD2}|APIesp8266\\APIesp8266.csproj|c:\\users\\home\\documents\\esp8266\\repo\\reactiot\\api\\apiesp8266\\apiesp8266\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7BAE4E-C432-48B4-A5E6-F4D76DBD7BD2}|APIesp8266\\APIesp8266.csproj|solutionrelative:apiesp8266\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D7BAE4E-C432-48B4-A5E6-F4D76DBD7BD2}|APIesp8266\\APIesp8266.csproj|c:\\users\\home\\documents\\esp8266\\repo\\reactiot\\api\\apiesp8266\\apiesp8266\\entity\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D7BAE4E-C432-48B4-A5E6-F4D76DBD7BD2}|APIesp8266\\APIesp8266.csproj|solutionrelative:apiesp8266\\entity\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D7BAE4E-C432-48B4-A5E6-F4D76DBD7BD2}|APIesp8266\\APIesp8266.csproj|c:\\users\\home\\documents\\esp8266\\repo\\reactiot\\api\\apiesp8266\\apiesp8266\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7BAE4E-C432-48B4-A5E6-F4D76DBD7BD2}|APIesp8266\\APIesp8266.csproj|solutionrelative:apiesp8266\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D7BAE4E-C432-48B4-A5E6-F4D76DBD7BD2}|APIesp8266\\APIesp8266.csproj|c:\\users\\home\\documents\\esp8266\\repo\\reactiot\\api\\apiesp8266\\apiesp8266\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,8 +19,16 @@
       "RelativeMoniker": "D:0:0:{4D7BAE4E-C432-48B4-A5E6-F4D76DBD7BD2}|APIesp8266\\APIesp8266.csproj|solutionrelative:apiesp8266\\model\\loginbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4D7BAE4E-C432-48B4-A5E6-F4D76DBD7BD2}|APIesp8266\\APIesp8266.csproj|c:\\users\\home\\documents\\esp8266\\repo\\reactiot\\api\\apiesp8266\\apiesp8266\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7BAE4E-C432-48B4-A5E6-F4D76DBD7BD2}|APIesp8266\\APIesp8266.csproj|solutionrelative:apiesp8266\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4D7BAE4E-C432-48B4-A5E6-F4D76DBD7BD2}|APIesp8266\\APIesp8266.csproj|c:\\users\\home\\documents\\esp8266\\repo\\reactiot\\api\\apiesp8266\\apiesp8266\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D7BAE4E-C432-48B4-A5E6-F4D76DBD7BD2}|APIesp8266\\APIesp8266.csproj|solutionrelative:apiesp8266\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7BAE4E-C432-48B4-A5E6-F4D76DBD7BD2}|APIesp8266\\APIesp8266.csproj|c:\\users\\home\\documents\\esp8266\\repo\\reactiot\\api\\apiesp8266\\apiesp8266\\entity\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7BAE4E-C432-48B4-A5E6-F4D76DBD7BD2}|APIesp8266\\APIesp8266.csproj|solutionrelative:apiesp8266\\entity\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D7BAE4E-C432-48B4-A5E6-F4D76DBD7BD2}|APIesp8266\\APIesp8266.csproj|c:\\users\\home\\documents\\esp8266\\repo\\reactiot\\api\\apiesp8266\\apiesp8266\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -53,24 +61,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\Documents\\ESP8266\\Repo\\ReactIoT\\Api\\APIesp8266\\APIesp8266\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "APIesp8266\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Home\\Documents\\ESP8266\\Repo\\ReactIoT\\Api\\APIesp8266\\APIesp8266\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "APIesp8266\\DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T20:04:35.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\Documents\\ESP8266\\Repo\\ReactIoT\\Api\\APIesp8266\\APIesp8266\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "APIesp8266\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Home\\Documents\\ESP8266\\Repo\\ReactIoT\\Api\\APIesp8266\\APIesp8266\\Controllers\\UserController.cs",
+              "RelativeToolTip": "APIesp8266\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T19:57:55.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\Home\\Documents\\ESP8266\\Repo\\ReactIoT\\Api\\APIesp8266\\APIesp8266\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "APIesp8266\\Controllers\\LoginController.cs",
               "ToolTip": "C:\\Users\\Home\\Documents\\ESP8266\\Repo\\ReactIoT\\Api\\APIesp8266\\APIesp8266\\Controllers\\LoginController.cs",
               "RelativeToolTip": "APIesp8266\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAWwBEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAWwA0AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T22:38:53.825Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "UserDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Home\\Documents\\ESP8266\\Repo\\ReactIoT\\Api\\APIesp8266\\APIesp8266\\Entity\\UserDbContext.cs",
               "RelativeDocumentMoniker": "APIesp8266\\Entity\\UserDbContext.cs",
@@ -78,12 +112,11 @@
               "RelativeToolTip": "APIesp8266\\Entity\\UserDbContext.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAQwBIAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T03:26:13.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T03:26:13.422Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "APIesp8266.csproj",
               "DocumentMoniker": "C:\\Users\\Home\\Documents\\ESP8266\\Repo\\ReactIoT\\Api\\APIesp8266\\APIesp8266\\APIesp8266.csproj",
               "RelativeDocumentMoniker": "APIesp8266\\APIesp8266.csproj",
@@ -91,8 +124,7 @@
               "RelativeToolTip": "APIesp8266\\APIesp8266.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-14T00:44:34.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T00:44:34.372Z"
             },
             {
               "$type": "Document",
@@ -109,13 +141,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Home\\Documents\\ESP8266\\Repo\\ReactIoT\\Api\\APIesp8266\\APIesp8266\\Program.cs",
               "RelativeDocumentMoniker": "APIesp8266\\Program.cs",
               "ToolTip": "C:\\Users\\Home\\Documents\\ESP8266\\Repo\\ReactIoT\\Api\\APIesp8266\\APIesp8266\\Program.cs",
               "RelativeToolTip": "APIesp8266\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T22:27:21.9Z",
               "EditorCaption": ""
@@ -135,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Home\\Documents\\ESP8266\\Repo\\ReactIoT\\Api\\APIesp8266\\APIesp8266\\appsettings.json",
               "RelativeDocumentMoniker": "APIesp8266\\appsettings.json",
@@ -143,12 +175,11 @@
               "RelativeToolTip": "APIesp8266\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-13T23:02:53.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T23:02:53.398Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "APIesp8266.http",
               "DocumentMoniker": "C:\\Users\\Home\\Documents\\ESP8266\\Repo\\ReactIoT\\Api\\APIesp8266\\APIesp8266\\APIesp8266.http",
               "RelativeDocumentMoniker": "APIesp8266\\APIesp8266.http",
@@ -156,12 +187,11 @@
               "RelativeToolTip": "APIesp8266\\APIesp8266.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-03-15T03:57:16.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T03:57:16.013Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Home\\Documents\\ESP8266\\Repo\\ReactIoT\\Api\\APIesp8266\\APIesp8266\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "APIesp8266\\Properties\\launchSettings.json",
@@ -169,24 +199,22 @@
               "RelativeToolTip": "APIesp8266\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-15T03:57:37.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T03:57:37.706Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "APIesp8266",
               "DocumentMoniker": "C:\\Users\\Home\\Documents\\ESP8266\\Repo\\ReactIoT\\Api\\APIesp8266\\APIesp8266\\APIesp8266.csproj",
               "RelativeDocumentMoniker": "APIesp8266\\APIesp8266.csproj",
               "ToolTip": "C:\\Users\\Home\\Documents\\ESP8266\\Repo\\ReactIoT\\Api\\APIesp8266\\APIesp8266\\APIesp8266.csproj",
               "RelativeToolTip": "APIesp8266\\APIesp8266.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-14T00:53:11.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T00:53:11.049Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "web.config",
               "DocumentMoniker": "C:\\Users\\Home\\Documents\\ESP8266\\web.config",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\web.config",
