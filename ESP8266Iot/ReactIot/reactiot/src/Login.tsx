@@ -92,6 +92,11 @@ export const Login = () => {
 
     return (
         <> <Container>           <ToastContainer />
+            <div style={{
+
+                margin: "10px",
+                padding: "10px",
+            }} >
             {!isLogged ? <>
 
             <form style={{
@@ -119,7 +124,7 @@ export const Login = () => {
             </> : <>
                     <button onClick={logout}>Logout</button>
             </>}
-        </Container> 
+            </div></Container> 
         </>
     );
 }

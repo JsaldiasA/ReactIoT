@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Home\\Documents\\ESP8266\\Repo\\ReactIoT\\ESP8266Iot\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50B932D1-9A8F-E4EF-5B28-8C2197F77961}|ReactIot\\reactiot\\reactiot.esproj|c:\\users\\home\\documents\\esp8266\\repo\\reactiot\\esp8266iot\\reactiot\\reactiot\\src\\devices.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{50B932D1-9A8F-E4EF-5B28-8C2197F77961}|ReactIot\\reactiot\\reactiot.esproj|solutionrelative:reactiot\\reactiot\\src\\devices.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{50B932D1-9A8F-E4EF-5B28-8C2197F77961}|ReactIot\\reactiot\\reactiot.esproj|c:\\users\\home\\documents\\esp8266\\repo\\reactiot\\esp8266iot\\reactiot\\reactiot\\src\\login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{50B932D1-9A8F-E4EF-5B28-8C2197F77961}|ReactIot\\reactiot\\reactiot.esproj|solutionrelative:reactiot\\reactiot\\src\\login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50B932D1-9A8F-E4EF-5B28-8C2197F77961}|ReactIot\\reactiot\\reactiot.esproj|c:\\users\\home\\documents\\esp8266\\repo\\reactiot\\esp8266iot\\reactiot\\reactiot\\src\\devices.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{50B932D1-9A8F-E4EF-5B28-8C2197F77961}|ReactIot\\reactiot\\reactiot.esproj|solutionrelative:reactiot\\reactiot\\src\\devices.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50B932D1-9A8F-E4EF-5B28-8C2197F77961}|ReactIot\\reactiot\\reactiot.esproj|c:\\users\\home\\documents\\esp8266\\repo\\reactiot\\esp8266iot\\reactiot\\reactiot\\src\\home.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -62,8 +62,7 @@
               "RelativeToolTip": "ReactIot\\reactiot\\src\\Accounts.tsx",
               "ViewState": "AgIAADoAAAAAAAAAAAAgwD8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-18T12:32:43.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T12:32:43.756Z"
             },
             {
               "$type": "Document",
@@ -75,8 +74,7 @@
               "RelativeToolTip": "ReactIot\\reactiot\\src\\Home.tsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-18T12:24:10.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T12:24:10.07Z"
             },
             {
               "$type": "Document",
@@ -88,31 +86,30 @@
               "RelativeToolTip": "ReactIot\\reactiot\\src\\App.tsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-18T12:25:08.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T12:25:08.76Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Login.tsx",
               "DocumentMoniker": "C:\\Users\\Home\\Documents\\ESP8266\\Repo\\ReactIoT\\ESP8266Iot\\ReactIot\\reactiot\\src\\Login.tsx",
               "RelativeDocumentMoniker": "ReactIot\\reactiot\\src\\Login.tsx",
               "ToolTip": "C:\\Users\\Home\\Documents\\ESP8266\\Repo\\ReactIoT\\ESP8266Iot\\ReactIot\\reactiot\\src\\Login.tsx",
               "RelativeToolTip": "ReactIot\\reactiot\\src\\Login.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAH4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-03-18T12:22:09.25Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Devices.tsx",
               "DocumentMoniker": "C:\\Users\\Home\\Documents\\ESP8266\\Repo\\ReactIoT\\ESP8266Iot\\ReactIot\\reactiot\\src\\Devices.tsx",
               "RelativeDocumentMoniker": "ReactIot\\reactiot\\src\\Devices.tsx",
               "ToolTip": "C:\\Users\\Home\\Documents\\ESP8266\\Repo\\ReactIoT\\ESP8266Iot\\ReactIot\\reactiot\\src\\Devices.tsx",
               "RelativeToolTip": "ReactIot\\reactiot\\src\\Devices.tsx",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwCUAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwB4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-03-18T12:21:19.829Z",
               "EditorCaption": ""
@@ -127,8 +124,7 @@
               "RelativeToolTip": "ReactIot\\reactiot\\index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-18T12:11:55.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T12:11:55.634Z"
             },
             {
               "$type": "Document",
@@ -140,8 +136,7 @@
               "RelativeToolTip": "ReactIot\\reactiot\\src\\main.tsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-18T12:04:04.772Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T12:04:04.772Z"
             },
             {
               "$type": "Document",
@@ -153,8 +148,7 @@
               "RelativeToolTip": "ReactIot\\reactiot\\src\\index.css",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-18T12:03:28.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T12:03:28.678Z"
             },
             {
               "$type": "Document",
@@ -166,8 +160,7 @@
               "RelativeToolTip": "ReactIot\\reactiot\\src\\App.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-18T12:03:12.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T12:03:12.612Z"
             },
             {
               "$type": "Document",
@@ -179,8 +172,7 @@
               "RelativeToolTip": "ReactIot\\reactiot\\src\\nav1.tsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-18T12:05:05.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T12:05:05.721Z"
             }
           ]
         }
