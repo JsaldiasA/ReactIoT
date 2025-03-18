@@ -8,7 +8,17 @@ function Home() {
   
 
     return (
-        <Container >  <h1>Home Page</h1></Container>
+        <Container ><div style={{
+
+            margin: "10px",
+            padding: "10px",
+
+
+
+        }} >  <h1>Home Page</h1>
+        </div>
+
+        </Container>
    
 
     )

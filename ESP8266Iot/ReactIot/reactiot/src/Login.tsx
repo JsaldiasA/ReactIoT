@@ -1,5 +1,7 @@
 import { useState , useEffect} from "react";
 import { ToastContainer, toast } from "react-toastify";
+import { Container } from 'react-bootstrap';
+//import './Content.css';
 
 
 import { useNavigate } from 'react-router-dom';
@@ -89,14 +91,14 @@ export const Login = () => {
     }
 
     return (
-        <>
-            <ToastContainer />
+        <> <Container>           <ToastContainer />
             {!isLogged ? <>
 
             <form style={{
                 display: "flex",
                 flexDirection: 'column',
-                gap: '20px',
+                    gap: '20px',
+                    placeItems: 'center'
             }} onSubmit={handleLogin}>
                 <label>Username:</label>
                 <input
@@ -117,6 +119,7 @@ export const Login = () => {
             </> : <>
                     <button onClick={logout}>Logout</button>
             </>}
+        </Container> 
         </>
     );
 }

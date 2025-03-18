@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-
+import { Container } from 'react-bootstrap';
 
 
 import { useNavigate } from 'react-router-dom';
@@ -26,10 +26,20 @@ function Devices() {
     }, []);
   
 
-    return (
+    return (<>
 
-        <h1>Device 1</h1>
+        <Container ><div style={{
 
+            margin: "10px",
+            padding: "10px",
+
+
+
+        }} >  <h1>Devices</h1>
+        </div>
+
+        </Container>
+    </>
     )
 }
 

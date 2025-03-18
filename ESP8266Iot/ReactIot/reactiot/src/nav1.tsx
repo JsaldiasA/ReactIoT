@@ -3,7 +3,7 @@ import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
-import './App.css';
+//import './App.css';
 
 function Nav1() {
 
@@ -27,13 +27,14 @@ function Nav1() {
 
         <Navbar expand="lg" className="bg-body-tertiary"
             style={{
-                position: "absolute",
+                //position: "sticky",
               top: "0%",
                 left: "0%",
                 right: "0%",
                 margin: "0%",
-                cursor: "pointer",
-                pointerEvents: "all",
+                //padding: "20%"
+                //cursor: "pointer",
+                //pointerEvents: "all",
             }}  >
 
             <Container>

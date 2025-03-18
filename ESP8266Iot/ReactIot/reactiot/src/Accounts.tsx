@@ -51,29 +51,38 @@ function Accounts() {
 
 
     return (
-        <>
-            <div expand="lg" className="bg-body-tertiary"
+        <><Container>
+            <div //expand="lg" //className="bg-body-tertiary"
                 style={{
-                    position: "static",
+                    //position: "static",
                     top: "0px",
-                    
+                    //placeItems: 'center',
                     margin: "10px",
             
                 }}  >
 
                 <div style={{
-                     position: "relative",
+                  
                     margin: "10px",
                     padding: "10px",
-                    cursor: "pointer",
-                    pointerEvents: "all",
+                  
+               
+                   
                 }} >
-            <h1> Accounts </h1>
-
+                    <h1 style={{ display: 'inline' ,paddingRight: "10%", }}> Accounts </h1>
+                    <button onClick={handleClick}   >Refresh</button>
                 </div>
 
-            <div>
-                <button onClick={handleClick}>Refresh</button>
+                <div style={{
+                    // position: "relative",
+                    margin: "10px",
+                    padding: "10px",
+                    //cursor: "pointer",
+                   // pointerEvents: "all",
+                   // placeItems: 'center'
+
+                }}>
+                
                 {data ?
                 <div><table class="table table-striped">
                 <thead>
@@ -85,9 +94,10 @@ function Accounts() {
                 <tbody>
                 {data}
                 </tbody>
-            </table></div> : <div>Loading...</div>}
+            </table></div> : <div>Press Refresh button</div>}
             </div>
             </div>
+        </Container>
         </>
 
    
